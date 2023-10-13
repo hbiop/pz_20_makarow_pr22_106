@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "944853741132",
+    "firebase_url": "https://pr-20-makarow-pr22-106-default-rtdb.firebaseio.com",
+    "project_id": "pr-20-makarow-pr22-106",
+    "storage_bucket": "pr-20-makarow-pr22-106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944853741132:android:29b06a6e2085822f090ee9",
+        "android_client_info": {
+          "package_name": "com.example.pz20_makarow_pr22_106"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nE2tzVlZEYkb6IPjbC7cAXtiruMlU3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944853741132:android:4a43ccad83446d59090ee9",
+        "android_client_info": {
+          "package_name": "com.example.pz_20_makarow_pr_22_106"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nE2tzVlZEYkb6IPjbC7cAXtiruMlU3g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
